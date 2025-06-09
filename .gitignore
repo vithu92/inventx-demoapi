@@ -56,3 +56,4 @@ nunit-*.xml
 # Project related
 DemoAPI/appsettings.json
 DemoAPI/appsettings.json
+.fake
